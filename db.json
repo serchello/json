@@ -1,55 +1,55 @@
 
  { 
-  "cities": [
+  "exhibitions": [
     {
-      "legend": "Εκδηλώσεις",
-      "title": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO από την επίσκεψή τους στο…",
-      "time": "10 Σεπ 2021",
+      "legend": "EXPERIENCE",
+      "title": "Έκθεση του Απολιθωμένου Δάσους Λέσβου",
+      "content": "Σπάνια απολιθώματα της συλλογής των απολιθωμένων φυτών και ζώων που προέρχονται από την [...]",
       "image": [{
         "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
         "alt": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO"
       }]
     },
     {
-      "legend": "Δραστηριότητες",
-      "title": "5th AGIASOS ENDURO MTB | Με μεγάλη επιτυχία πραγματοποιήθηκε η μεγάλη γιορτή του…",
-      "time": "08 Σεπ 2021",
+      "legend": "EXPERIENCE",
+      "title": "Γεωιστορική Έκθεση εξέλιξη του Αιγαίου",
+      "content": "Η έκθεση παρουσιάζει εντυπωσιακά δείγματα ορυκτών και πετρωμάτων από τη Λέσβο, την Ελλάδα και  [...]",
+      "image": [{
+        "src": "https://www.planetware.com/photos-large/D/east-berlin-former-0.jpg",
+        "alt": "5th AGIASOS ENDURO MTB"
+      }]
+    },
+    {
+      "legend": "EXPERIENCE",
+      "title": "Tα ζώα του Απολιθωμένου Δάσους",
+      "content": "Στην έκθεση παρουσιάζονται τα αποτελέσματα των ερευνητικών εργασιών του Μουσείου για τα ζώα του Απολιθωμένου Δάσους Λέσβου, τα οποία ήρθαν στο φως από τις [...]",
+      "image": [{
+        "src": "https://www.planetware.com/photos-large/D/germany-berlin-museum-island.jpg",
+        "alt": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO"
+      }]
+    },
+    {
+      "legend": "EXPERIENCE",
+      "title": "Δεινοθήρια και Σεκόιες",
+      "content": "Εντυπωσιακά απολιθώματα από τις πρόσφατες ανασκαφές του 2018 και 2019 από το απολιθωμένο δάσος Λέσβου, καθώς και πληροφορίες για τα φυτά και τα ζώα (μικρο [...]",
       "image": [{
         "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
         "alt": "5th AGIASOS ENDURO MTB"
       }]
     },
     {
-      "legend": "Εκπαιδευτικά",
-      "title": "Με επιτυχία ολοκληρώθηκε το διήμερο εξορμήσεων στην Αλυκή Καλλονής…",
-      "time": "05 Σεπ 2021",
+      "legend": "EXPERIENCE",
+      "title": "Έκθεση του Απολιθωμένου Δάσους Λέσβου",
+      "content": "08 Σεπ 2021",
       "image": [{
         "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
         "alt": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO"
       }]
     },
     {
-      "legend": "Εκδηλώσεις",
-      "title": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO από την επίσκεψή τους στο…",
-      "time": "10 Σεπ 2021",
-      "image": [{
-        "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
-        "alt": "5th AGIASOS ENDURO MTB"
-      }]
-    },
-    {
-      "legend": "Δραστηριότητες",
-      "title": "5th AGIASOS ENDURO MTB | Με μεγάλη επιτυχία πραγματοποιήθηκε η μεγάλη γιορτή του…",
-      "time": "08 Σεπ 2021",
-      "image": [{
-        "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
-        "alt": "Εντυπωσιασμένοι οι εμπειρογνώμονες της UNESCO"
-      }]
-    },
-    {
-      "legend": "Εκπαιδευτικά",
-      "title": "Με επιτυχία ολοκληρώθηκε το διήμερο εξορμήσεων στην Αλυκή Καλλονής…",
-      "time": "05 Σεπ 2021",
+      "legend": "EXPERIENCE",
+      "title": "Γεωιστορική Έκθεση εξέλιξη του Αιγαίου",
+      "content": "05 Σεπ 2021",
       "image": [{
         "src": "https://www.planetware.com/wpimages/2020/02/greece-in-pictures-beautfiul-places-to-photograph-santorini-oia.jpg",
         "alt": "5th AGIASOS ENDURO MTB"
